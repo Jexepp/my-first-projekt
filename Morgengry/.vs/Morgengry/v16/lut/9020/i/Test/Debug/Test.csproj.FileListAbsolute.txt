@@ -1,0 +1,7 @@
+C:\Users\jtrue\OneDrive\Dokumenter\UCL Erhvervsakademi og Professionshøjskole\Jexepp\jexepps-private-sager\Morgengry\.vs\Morgengry\v16\lut\0\b\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\jtrue\OneDrive\Dokumenter\UCL Erhvervsakademi og Professionshøjskole\Jexepp\jexepps-private-sager\Morgengry\.vs\Morgengry\v16\lut\0\b\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\jtrue\OneDrive\Dokumenter\UCL Erhvervsakademi og Professionshøjskole\Jexepp\jexepps-private-sager\Morgengry\.vs\Morgengry\v16\lut\0\b\Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\jtrue\OneDrive\Dokumenter\UCL Erhvervsakademi og Professionshøjskole\Jexepp\jexepps-private-sager\Morgengry\.vs\Morgengry\v16\lut\0\b\Test\bin\Debug\Test.dll
+C:\Users\jtrue\OneDrive\Dokumenter\UCL Erhvervsakademi og Professionshøjskole\Jexepp\jexepps-private-sager\Morgengry\.vs\Morgengry\v16\lut\0\i\Test\Debug\Test.csproj.CopyComplete
+C:\Users\jtrue\OneDrive\Dokumenter\UCL Erhvervsakademi og Professionshøjskole\Jexepp\jexepps-private-sager\Morgengry\.vs\Morgengry\v16\lut\0\i\Test\Debug\Test.dll
+C:\Users\jtrue\OneDrive\Dokumenter\UCL Erhvervsakademi og Professionshøjskole\Jexepp\jexepps-private-sager\Morgengry\.vs\Morgengry\v16\lut\0\i\Test\Debug\Test.csprojAssemblyReference.cache

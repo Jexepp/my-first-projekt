@@ -1,0 +1,4 @@
+C:\Users\jtrue\OneDrive\Dokumenter\UCL Erhvervsakademi og Professionshøjskole\Jexepp\jexepps-private-sager\Morgengry\.vs\Morgengry\v16\lut\0\b\Morgengry\bin\Debug\Morgengry.exe.config
+C:\Users\jtrue\OneDrive\Dokumenter\UCL Erhvervsakademi og Professionshøjskole\Jexepp\jexepps-private-sager\Morgengry\.vs\Morgengry\v16\lut\0\b\Morgengry\bin\Debug\Morgengry.exe
+C:\Users\jtrue\OneDrive\Dokumenter\UCL Erhvervsakademi og Professionshøjskole\Jexepp\jexepps-private-sager\Morgengry\.vs\Morgengry\v16\lut\0\i\Morgengry\Debug\Morgengry.csproj.CopyComplete
+C:\Users\jtrue\OneDrive\Dokumenter\UCL Erhvervsakademi og Professionshøjskole\Jexepp\jexepps-private-sager\Morgengry\.vs\Morgengry\v16\lut\0\i\Morgengry\Debug\Morgengry.exe
